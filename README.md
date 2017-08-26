@@ -3,6 +3,6 @@ This is a way through a remote browser as a joystick, which can be a mobile phon
 
 
 # Example : 
-# VR : https://play.google.com/store/apps/details?id=com.surfm.vrfps
-# TV : https://play.google.com/store/apps/details?id=com.surfm.tvfps
+- VR : https://play.google.com/store/apps/details?id=com.surfm.vrfps
+- TV : https://play.google.com/store/apps/details?id=com.surfm.tvfps
 
